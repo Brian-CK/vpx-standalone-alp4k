@@ -16,10 +16,9 @@
 
 ## Status 
 Minimum VPX Standalone build: 10.8.0-1983-a764013
-| Playfield | Controls | Backglass | DMD | ROM Required | FPS | 
+| Table | Playfield | Controls | Backglass | DMD | ROM Required | Has Puppack | FPS | 
 |-----------|----------|-----------|-----|--------------|-----|
-| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
-
+| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | 60 |
 ---
 
 ## Instructions
