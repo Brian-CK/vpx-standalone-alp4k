@@ -1,4 +1,4 @@
-# Attack from Mars LE, JP's (Bally 1995)
+# Attack from Mars, JP's (Bally 1995)
 
 ![Table Preview](../../images/vpx-jpattackfrommarsle.jpg)
 
